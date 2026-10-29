@@ -1,4 +1,4 @@
-![adulthood — Tools for AI personas.](https://raw.githubusercontent.com/adulthood/.github/main/profile/assets/banner.png)
+![adulthood — Tools for AI personas.](https://raw.githubusercontent.com/adulthood-dev/.github/main/profile/assets/banner.png)
 
 **adulthood** is a private project building tools for managing AI personas and their interactions.
 
